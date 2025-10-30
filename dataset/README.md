@@ -4,4 +4,5 @@ Apresenta o atendimento de um paciente, por médico, para fins de exame, diagnó
 
 Termos relacionados: consultas programadas, consultas agendadas.
 
-Notas técnicas: só é possível apresentar informações para os hospitais da rede Fhemig que já migraram para o sistema ERP Tasy.
+Notas técnicas: só é possível apresentar informações para as unidades da rede Fhemig que já migraram para o sistema ERP Tasy.
+
