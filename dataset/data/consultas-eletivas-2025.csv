@@ -17,6 +17,8 @@ CHPB;2025;8;Psicologia;31
 CHPB;2025;8;Psiquiatria;586
 CHPB;2025;9;Psicologia;24
 CHPB;2025;9;Psiquiatria;600
+CHPB;2025;10;Psicologia;8
+CHPB;2025;10;Psiquiatria;675
 CSPD;2025;1;Cirurgia Geral;15
 CSPD;2025;1;Dermatologia;63
 CSPD;2025;1;Enfermagem;223
@@ -100,6 +102,17 @@ CSPD;2025;9;Pediatria;87
 CSPD;2025;9;Psicologia;35
 CSPD;2025;9;Serviço Social;5
 CSPD;2025;9;Terapia Ocupacional;39
+CSPD;2025;10;Cirurgia Geral;30
+CSPD;2025;10;Dermatologia;168
+CSPD;2025;10;Enfermagem;328
+CSPD;2025;10;Fisioterapia;7
+CSPD;2025;10;Hansenologia;24
+CSPD;2025;10;Nutrição;1
+CSPD;2025;10;Ortopedia e Traumatologia;154
+CSPD;2025;10;Otorrinolaringologia;105
+CSPD;2025;10;Pediatria;12
+CSPD;2025;10;Psicologia;34
+CSPD;2025;10;Serviço Social;1
 CSSFE;2025;1;Angiologia;38
 CSSFE;2025;1;Dermatologia;35
 CSSFE;2025;1;Enfermagem;305
@@ -186,6 +199,15 @@ CSSFE;2025;9;Ortopedia e Traumatologia;129
 CSSFE;2025;9;Pneumologia;18
 CSSFE;2025;9;Psicologia;25
 CSSFE;2025;9;Serviço Social;4
+CSSFE;2025;10;Angiologia;82
+CSSFE;2025;10;Enfermagem;477
+CSSFE;2025;10;Fisioterapia;24
+CSSFE;2025;10;Ginecologia e Obstetrícia;29
+CSSFE;2025;10;Oftamologia;137
+CSSFE;2025;10;Ortopedia e Traumatologia;43
+CSSFE;2025;10;Pneumologia;13
+CSSFE;2025;10;Psicologia;26
+CSSFE;2025;10;Serviço Social;1
 CSSI;2025;1;Cardiologia;39
 CSSI;2025;1;Clínica Médica;74
 CSSI;2025;1;Fonoaudiologia;2
@@ -248,6 +270,37 @@ CSSI;2025;9;Oftamologia;83
 CSSI;2025;9;Psicologia;21
 CSSI;2025;9;Serviço Social;51
 CSSI;2025;9;Terapia Ocupacional;1
+CSSI;2025;10;Cardiologia;41
+CSSI;2025;10;Fisioterapia;10
+CSSI;2025;10;Fonoaudiologia;2
+CSSI;2025;10;Nutrição;1
+CSSI;2025;10;Oftamologia;63
+CSSI;2025;10;Psicologia;22
+CSSI;2025;10;Serviço Social;35
+CSSI;2025;10;Terapia Ocupacional;6
+HAC;2025;10;Cardiologia;101
+HAC;2025;10;Cirurgia de Cabeça e Pescoço;127
+HAC;2025;10;Cirurgia Geral;88
+HAC;2025;10;Cirurgia Plástica;11
+HAC;2025;10;Cirurgia Torácica;22
+HAC;2025;10;Cirurgia Vascular;9
+HAC;2025;10;Coloproctologia;85
+HAC;2025;10;Dermatologia;40
+HAC;2025;10;Endocrinologia e Metabologia;17
+HAC;2025;10;Endoscopia;14
+HAC;2025;10;Enfermagem;111
+HAC;2025;10;Fisioterapia;7
+HAC;2025;10;Fonoaudilogia;10
+HAC;2025;10;Fonoaudiologia;19
+HAC;2025;10;Ginecologia e Obstetrícia;37
+HAC;2025;10;Hematologia;79
+HAC;2025;10;Mastologia;223
+HAC;2025;10;Médico Paliativista;10
+HAC;2025;10;Nutrição;26
+HAC;2025;10;Oncologia Clínica;908
+HAC;2025;10;Psicólogo;38
+HAC;2025;10;Serviço Social;41
+HAC;2025;10;Urologia;104
 HEM;2025;6;Cirurgia Plástica;13
 HEM;2025;6;Coloproctologia;7
 HEM;2025;6;Dermatologia;572
@@ -333,6 +386,29 @@ HEM;2025;9;Reumatologia;72
 HEM;2025;9;Serviço Social;318
 HEM;2025;9;Terapia Ocupacional;13
 HEM;2025;9;Urologia;18
+HEM;2025;10;Anestesiologia;3
+HEM;2025;10;Cirurgia Geral;5
+HEM;2025;10;Cirurgia Plástica;45
+HEM;2025;10;Coloproctologia;20
+HEM;2025;10;Dermatologia;1072
+HEM;2025;10;Endocrinologia e Metabologia;158
+HEM;2025;10;Enfermagem;734
+HEM;2025;10;Fisioterapia;172
+HEM;2025;10;Gastroenterologia;26
+HEM;2025;10;Ginecologia e Obstetrícia;79
+HEM;2025;10;Hansenologia;347
+HEM;2025;10;Infectologia Adulto;1094
+HEM;2025;10;Nefrologia;69
+HEM;2025;10;Neurologia;33
+HEM;2025;10;Odontologia;1
+HEM;2025;10;Oftamologia;42
+HEM;2025;10;Ortopedia e Traumatologia;31
+HEM;2025;10;Psicologia;126
+HEM;2025;10;Psiquiatria;79
+HEM;2025;10;Reumatologia;58
+HEM;2025;10;Serviço Social;249
+HEM;2025;10;Terapia Ocupacional;8
+HEM;2025;10;Urologia;25
 HRBJA;2025;1;Bucomaxilofacial;41
 HRBJA;2025;1;Cirurgia Cardiovascular;29
 HRBJA;2025;1;Cirurgia Geral;29
@@ -395,6 +471,13 @@ HRBJA;2025;9;Cirurgia Plástica;11
 HRBJA;2025;9;Clínica Médica;2
 HRBJA;2025;9;Neurologia;67
 HRBJA;2025;9;Ortopedia e Traumatologia;285
+HRBJA;2025;10;Bucomaxilofacial;23
+HRBJA;2025;10;Cirurgia Cardiovascular;30
+HRBJA;2025;10;Cirurgia Geral;35
+HRBJA;2025;10;Cirurgia Plástica;13
+HRBJA;2025;10;Clínica Médica;6
+HRBJA;2025;10;Neurologia;79
+HRBJA;2025;10;Ortopedia e Traumatologia;319
 HRJP;2025;1;Angiologia;11
 HRJP;2025;1;Cardiologia;58
 HRJP;2025;1;Cirurgia da Mão;1
@@ -605,6 +688,28 @@ HRJP;2025;9;Pediatria;68
 HRJP;2025;9;Pneumologia;2
 HRJP;2025;9;Psicologia;188
 HRJP;2025;9;Urologia;283
+HRJP;2025;10;Anestesiologia;45
+HRJP;2025;10;Angiologia;7
+HRJP;2025;10;Cardiologia;150
+HRJP;2025;10;Cirurgia Geral;153
+HRJP;2025;10;Cirurgia Plástica;9
+HRJP;2025;10;Cirurgia Vascular;43
+HRJP;2025;10;Coloproctologia;21
+HRJP;2025;10;Dermatologia;41
+HRJP;2025;10;Endocrinologia e Metabologia;48
+HRJP;2025;10;Enfermagem;53
+HRJP;2025;10;Fisioterapia;402
+HRJP;2025;10;Fonoaudiologia;130
+HRJP;2025;10;Ginecologia e Obstetrícia;277
+HRJP;2025;10;Mastologia;32
+HRJP;2025;10;Neurocirurgia;13
+HRJP;2025;10;Neurologia Infantil;24
+HRJP;2025;10;Ortopedia e Traumatologia;292
+HRJP;2025;10;Otorrinolaringologia;51
+HRJP;2025;10;Pediatria;74
+HRJP;2025;10;Pneumologia;3
+HRJP;2025;10;Psicologia;174
+HRJP;2025;10;Urologia;207
 IRS;2025;1;Neurologia;12
 IRS;2025;1;Psiquiatria;318
 IRS;2025;2;Neurologia;13
@@ -623,6 +728,8 @@ IRS;2025;8;Neurologia;19
 IRS;2025;8;Psiquiatria;272
 IRS;2025;9;Neurologia;13
 IRS;2025;9;Psiquiatria;342
+IRS;2025;10;Neurologia;17
+IRS;2025;10;Psiquiatria;342
 MOV;2025;1;Banco de Leite;385
 MOV;2025;1;Cardiologia;73
 MOV;2025;1;Endocrinologia e Metabologia;64
@@ -774,3 +881,20 @@ MOV;2025;9;Pediatria;48
 MOV;2025;9;Psicologia;93
 MOV;2025;9;Psiquiatria;26
 MOV;2025;9;Serviço Social;28
+MOV;2025;10;Anestesiologia;39
+MOV;2025;10;Banco de Leite;326
+MOV;2025;10;Cardiologia;74
+MOV;2025;10;Endocrinologia e Metabologia;90
+MOV;2025;10;Enfermagem;8
+MOV;2025;10;Fisioterapia;106
+MOV;2025;10;Fonoaudilogia;48
+MOV;2025;10;Ginecologia e Obstetrícia;991
+MOV;2025;10;Mastologia;11
+MOV;2025;10;Nefrologia;8
+MOV;2025;10;Neurologia;43
+MOV;2025;10;Nutrição;57
+MOV;2025;10;Oftamologia;5
+MOV;2025;10;Pediatria;69
+MOV;2025;10;Psicologia;71
+MOV;2025;10;Psiquiatria;28
+MOV;2025;10;Serviço Social;50
